@@ -1,0 +1,1 @@
+console.log('Hi this is sankara and im from Friend.js page');
